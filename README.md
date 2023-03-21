@@ -17,9 +17,9 @@
 
 Highly motivated, comitted and results driven professional with extensive experience in finance, business control, management reporting, business intelligence and data analytics. 
 
-A continuous Learner, with good knowledge of Data Analytics, Data Science , Deep Learning. Posses strong coding and problem solving skills with hands on experience with latest technologies.
+A continuous learner, with good knowledge of Data Analytics, Data Science and Deep Learning. Posses strong coding and problem solving skills with hands on experience in latest technologies.
 
-My career objective is to pursue a challenging career and be part of a progressive organisation where I can apply aquired technical and analytical skills. Broaden my knowledge about new and emerging trends in IT sector and application in organizations.
+My career objective is to pursue a challenging career and be part of a progressive organisation where I can apply aquired technical and analytical skills. Broaden my knowledge about new and emerging trends in IT sector, and application in organizations.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
