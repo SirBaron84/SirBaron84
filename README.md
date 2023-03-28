@@ -24,6 +24,8 @@ My career objective is to pursue a challenging career and be part of a progressi
 <h3 align="left"> My Certifications:</h3>
 <p align="left"> Microsoft Certified: Power BI Data Analyst Associate
 <p align="left"> Microsoft Certified: Azure Data Engineer Associate
+<p align="left"> IBM Data Science Specialization
+<p align="left"> IBM Applied Data Science Specialization 
 <p align="left"> Microsoft Certified: Azure Data Fundamentals
 <p align="left"> Microsoft Certified: Azure Fundamentals
 
