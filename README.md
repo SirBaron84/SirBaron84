@@ -22,8 +22,9 @@ A continuous learner, with good knowledge of Data Analytics, Data Science and De
 My career objective is to pursue a challenging career and be part of a progressive organisation where I can apply aquired technical and analytical skills. Broaden my knowledge about new and emerging trends in IT sector, and application in organizations.
 
 <h3 align="left"> My Certifications:</h3>
-<p align="left"> Microsoft Certified: Power BI Data Analyst Associate
-<p align="left"> Microsoft Certified: Azure Data Engineer Associate
+<p align="left"> Microsoft Certified: Azure Solutions Architect Expert
+<p align="left"> Microsoft Certified: Azure Data Engineer 
+<p align="left"> Microsoft Certified: Power BI Data Analyst
 <p align="left"> IBM Data Science Specialization
 <p align="left"> IBM Applied Data Science Specialization 
 <p align="left"> Microsoft Certified: Azure Data Fundamentals
