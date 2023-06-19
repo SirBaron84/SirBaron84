@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Finance, Business Intelligence, Data Analytics**
 
-- 💬 Ask me about **Finance, Business Control, Business Intelligence, Azure Solutions**
+- 💬 Ask me about **Finance, Business Control, Business Intelligence, Azure Solutions, Cloud Computing**
 
 - 📫 How to reach me **Baronnwaobiara@gmail.com**
 
@@ -19,7 +19,7 @@ Highly motivated, comitted and results driven professional with extensive experi
 
 A continuous learner, with good knowledge of Data Analytics, Data Science and Deep Learning. Posses strong coding and problem solving skills with hands on experience in latest technologies.
 
-My career objective is to pursue a challenging career and be part of a progressive organisation where I can apply aquired technical and analytical skills. Broaden my knowledge about new and emerging trends in IT sector, and application in organizations.
+My career objective is to pursue a challenging career and be part of a progressive organisation where I can apply aquired technical and analytical skills. Broaden my knowledge about new and emerging trends in IT sector, and solutions to apply it in organizations.
 
 <h3 align="left"> My Certifications:</h3>
 <p align="left"> Microsoft Certified: Azure Solutions Architect Expert
